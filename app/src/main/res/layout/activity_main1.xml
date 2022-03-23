@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sayılar Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board1">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Renkler Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board2">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sınıf Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board3">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vücudun Parçaları Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board4">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meslekler Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board5">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ülkeler Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board6">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meyveler Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board7">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hayvanlar Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board8">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giysiler Etkinliği"
+        android:layout_marginTop="9dp"
+        android:id="@+id/board9">
+    </Button>
+</LinearLayout>
